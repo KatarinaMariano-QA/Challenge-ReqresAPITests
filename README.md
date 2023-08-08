@@ -1,6 +1,5 @@
 # Challenge-ReqresAPITests
 
-This is a project created for resolution of the challenge of enterprise Salsa Techonology.
 This repository includes tests of the API Reqres. It can accessed in the URL https://reqres.in/
 
 ## 👶 Getting Started
